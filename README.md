@@ -1,7 +1,7 @@
 # PurrFare
 
 ## Descrição do Projeto
-Este repositório foi criado como parte do processo de candidatura para uma vaga de estágio na empresa X. O projeto tem como objetivo desenvolver uma landing page conceitual para um site fictício de uma marca de ração para gatos sustentável. A marca se destaca por utilizar ingredientes naturais e sustentáveis em sua composição de alimentos para felinos, promovendo assim uma alimentação saudável e ecologicamente consciente para os pets.
+Este repositório foi criado como parte do processo de candidatura para uma vaga de estágio na Projex Consulting. O projeto tem como objetivo desenvolver uma landing page conceitual para um site fictício de uma marca de ração para gatos sustentável. A marca se destaca por utilizar ingredientes naturais e sustentáveis em sua composição de alimentos para felinos, promovendo assim uma alimentação saudável e ecologicamente consciente para os pets.
 
 ## Objetivos
 - Desenvolver uma landing page responsiva e atraente que represente visualmente a marca e seus valores.
